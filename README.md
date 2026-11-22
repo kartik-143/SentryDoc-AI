@@ -1,7 +1,5 @@
 # SentryDoc AI
 
-Real-time multimodal document verification and fraud screening, powered by the Gemini API.
-Built for **hackCBS 9.0 (AI track)**.
 
 Upload a certificate, marksheet, ID or contract (PDF, PNG or JPG). SentryDoc reads it, extracts the key fields, scores how trustworthy it looks, and draws boxes around anything suspicious.
 
